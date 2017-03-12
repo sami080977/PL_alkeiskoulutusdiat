@@ -747,7 +747,9 @@ PIDÄ HYVÄ ALASTULOASENTO
 
    * Pysyttele tuulilinjan läheisyydessä
 
-   * ÄLÄ ylitä 300 metrin tasaa liian korkealla
+   * ÄLÄ ylitä 300 metrin tasaa liian korkealla 
+
+---
 
 # ULOSHYPYSTA MAAHANTULOON
 
