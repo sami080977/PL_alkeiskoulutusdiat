@@ -39,8 +39,4 @@ template: default
 
 # Teoriapaketit
 
-* [Peruskoulutusteoria](? diat_peruskoulutusteoria.md)
-* [Jatkokoulutusteoria](? diat_jatkokoulutusteoria.md)
-* [Lisenssiteoriat](? diat_lisenssiteoria.md)
-* [Turvallisuuskertaus](? diat_turvakertaus.md)
-
+* [PL-alkeiskoulutus](? diat_pl_alkeisteoria.md)
