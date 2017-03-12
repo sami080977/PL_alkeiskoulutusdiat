@@ -1,3 +1,42 @@
+
+
+layout: true
+name: title
+class: middle, center
+background-image: url(./tmpl/title_background.png)
+background-position: center
+background-size: no-repeat
+background-size: 100% 100%
+
+---
+
+layout: true
+name: title2
+class: middle, left
+
+---
+
+layout: true
+name: video
+class: middle, center
+
+---
+
+layout: true
+name: default
+background-image: url(./tmpl/left_banner.png)
+background-position: top left
+background-size: no-repeat
+background-size: contain
+
+---
+template: title
+
+# TEORIA - LASKUVARJOHYPPÄÄJÄN ALKEISKURSSI
+
+---
+template: default
+
 # Tervetuloa taivaalle
 
 * Perustettu vuonna 1919
@@ -44,14 +83,14 @@
 
 * Laitesukeltajan huomioitava varoajat ennen laskuvarjohyppyä
 
-**ÄLÄ SALAA MITÄÄN VAMMAA, KYSYMYS ON SINUN TURVALLISUUDESTASI.  
+**ÄLÄ SALAA MITÄÄN VAMMAA, KYSYMYS ON SINUN TURVALLISUUDESTASI.
 KOULUTUSORGANISAATIO VOI VAATIA LÄÄKÄRINTODISTUKSEN**
 
 ---
 
-**ALKOHOLIN, HUUMEIQEN JA KAIKKIEN VASTAAVIEQI PAIHTEIDEN JA PIRISTEIDEN  
-KAYTTO ON LASKUVARJOHYPPYTOIMINNASSA EHDOTTOMASTI KIELLETTY! SÄÄNNÖN  
-RIKKOMISESTA VOI SEURATA ILMAILULAIN, RIKOSLAIN, KERHON  
+**ALKOHOLIN, HUUMEIQEN JA KAIKKIEN VASTAAVIEQI PAIHTEIDEN JA PIRISTEIDEN
+KAYTTO ON LASKUVARJOHYPPYTOIMINNASSA EHDOTTOMASTI KIELLETTY! SÄÄNNÖN
+RIKKOMISESTA VOI SEURATA ILMAILULAIN, RIKOSLAIN, KERHON
 KOULUTUSORGANISAATION JA JOHTOKUNNAN RANGAISTUSTOIMENPITEITÄ**
 
 ---
@@ -533,7 +572,7 @@ VAARATILANTEET KONEESSA JA ULOSHYPYSSÄ
 
 * Sotkeutuminen punoksiin
 
-* Jos uloshyppysi on huono \(myöhemmässä vaiheessa huono avausasento\), on mahdollista  
+* Jos uloshyppysi on huono \(myöhemmässä vaiheessa huono avausasento\), on mahdollista
   sotkeutua punoksiin
 
 * Pyri tällöin irrottautumaan takertuneista punoksista ennen varavarjotoimenpiteitä
@@ -675,7 +714,7 @@ PIDÄ HYVÄ ALASTULOASENTO
 
 6. Kahvat, tarkasta että ovat taskuissaan
 
-7. Sijainti, tarkista oma ja maalialueen sijainti  
+7. Sijainti, tarkista oma ja maalialueen sijainti
    4.-7. = IKKS!
 
 ---
@@ -761,6 +800,5 @@ PIDÄ HYVÄ ALASTULOASENTO
 6. Nouse ylös, että radiokouluttaja tietää sinun olevan ok
 
 ---
-
 
 
