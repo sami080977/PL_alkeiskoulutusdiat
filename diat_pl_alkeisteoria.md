@@ -46,33 +46,44 @@ template: default
 
 * Perustettu vuonna 1919
 
-* Avustamissopimus Ilmailuhallinnon kanssa
-
-* Hoitaa käytännön valvontaa ja koulutusta
-
-* Laskuvarjotoimikunta: Kalustoryhmä, Kilpailukomitea ja Koulutus- ja turvallisuuskomitea
-
-* Termiikkiryhmä
+* Laskuvarjotoimikunta
 
 * Ilmailu-lehti
 
-* www.ilmailuliitto.fi
+* www.ilmailu.fi
+
+* www.laskuvarjotoimikunta.fi
 
 ---
 
-# Turvallisuus
+# SUOMEN LASKUVARJOKERHOT
 
-* Tavallisin vamma on nilkan nyrjähtäminen
+Yhdenmukainen koulutusjärjestelmä
+mahdolliastaa lajin jatkamisen toisisssa
+kerhoissa jo oppilasaikana.
 
-* Hyppääminen tapahtuu aina omalla vastuulla
+*oppilailta edellytetään
+jäseneksi liittymistä
+*Myöhemmässä vaiheessa joustavampaa
 
-* Useimmat vapaa-ajan vakuutukset eivät korvaa laskuvarjohyppäämistä
+---
 
-* SIL:n jäsenille tapaturma- ja kolmannen osapuolen vastuuvakuutus
+# ALKEISKURSSI
 
-* Vakuutus kannattaa ottaa
+Kurssin hinta sisältää
+* Koulutuksen,myös kaikki jatkokoulutuksen
 
-* Lisätietoja Hyvä hyppykurssilainen -esitteestä sekä kouluttajilta
+* 2 Ensimmäistä hyppyä
+
+* Jäsenmaksun kuluvallwe kaudelle
+
+* Sil jäsenmaksun
+
+* Varusteiden käyttöoikeuden koko oppilasuran ajalle
+
+Kurssin kesto noin 20 tuntia
+
+* Kaikki tunnit on käytävä
 
 ---
 
@@ -100,25 +111,19 @@ KOULUTUSORGANISAATION JA JOHTOKUNNAN RANGAISTUSTOIMENPITEITÄ**
 
 ---
 
-# KENTTAALUEELLA LIIKKUMINEN
+# VAKUUTUSTURVA 
 
-* Alue on suljettu asiattomilta, ei siis sinulta
+* Tavallisin vamma on nilkan nyrjähtäminen
 
-* Kierrä lentokoneet aina takakautta, väistä aina liikkuvaa konetta
+* Hyppääminen tapahtuu aina omalla vastuulla
 
-* Lentokoneiden lähelle vain kouluttajan opastuksella
+* Useimmat vapaa-ajan vakuutukset eivät korvaa laskuvarjohyppäämistä
 
-I Moottoreiden melu turruttaa, riskitekijä
+* SIL:n jäsenille tapaturma- ja kolmannen osapuolen vastuuvakuutus
 
-* Kiitoratoja ei saa ylittää ilman lupaa
+* Vakuutus kannattaa ottaa
 
----
-
-# MUITA OHJEITA
-
-* Tiivis koulutusohjelma vaatii Sinulta aktiivisuutta ja opetettujen asioiden kertaamista
-
-* Jos jokin asia jää epäselväksi, kysy epäröimättä kouluttajilta
+* Lisätietoja Hyvä hyppykurssilainen -esitteestä sekä kouluttajilta
 
 ---
 
@@ -144,21 +149,73 @@ I Moottoreiden melu turruttaa, riskitekijä
 
 * Maksettava kurssimaksu
 
-TODO!!!
+Alkeiskoulutus
+ 
+ * Vähintään 6 pakkolaukaisuhyppyä( 3 radion kanssa),ensimmäinen
+   itseaukaisu 3" sekä 5" ja 10"'
+   
+Peruskoulutus
+
+ * Vapaapudotuksen aika kasvaa,käännöksiä ja voltteja
+ 
+Jatkokoulutus kohti A-lisenssiä elins.lupakirjaa
+
+ * Muodostelmahypyt,eri hyppylajien kokeilua
+ 
+ * Olet itsenäinen oppilas
+ 
+ ---
+ 
+# HYPPYURAN ETENEMINEN
+
+      Lisenssi ja 
+      kelpoisuudet
+      
+ A-lisenssi("lupakirja")
+
+* Vähintään 25 vapaapudotushyppyä
+
+ B-lisenssi
+ 
+ * Vähintään 50 vapaapudotushyppyä
+ 
+ C-lisenssi
+ 
+ * Vähintään 200 vapaapudotushyppyä
+ 
+ D-lisenssi
+ 
+ * Vähintään 500 Vapaapudotushyppyä
+ 
+ Lisäksi erikseen hyppymestari-ja kouluttajakelpoisuudet
+ 
+ ---
+ 
+        ALKOHOLIN,HUUMEIDEN JA KAIKKIEN
+        VASTAAVIEN PÄIHTEIDEN KÄYTTÖ ON
+           LASKUVARJOHYPPYTOIMINNASSA
+             EHDOTTOMASTI KIELLETTY!
+             
+---             
+
+# MUITA OHJEITA
+
+* Tiivis koulutusohjelma vaatii Sinulta aktiivisuutta ja opetettujen asioiden kertaamista
+
+* Jos jokin asia jää epäselväksi, kysy epäröimättä kouluttajilta
+
+                 Kuuntele,kysy ja selvitä!
 
 ---
 
-# OPPILASHYPPYTOIMINNAN EDELLYTYKSET
-
-* Tuuli ei saa olla liian kova, alussa myös tyyni keli voi olla haasteellinen
-
-* Pilvitilanne sopiva oppilashyppytoiminnalle - Esteetön alastuloalue
-
-* Hyvää hyppysäätä joudutaan joskus odottelemaan
+# HYPPYTAPAHTUMA
 
 ---
 
 # HYPPYMESTARI
+
+Hyppymestarit huolehtivat oppilaiden
+koulutuksesta ja turvallisuudesta.
 
 * Valvoo hyppytoimintaa ja "heittää" oppilaat koneesta
 
@@ -172,7 +229,117 @@ TODO!!!
 
 ---
 
-# LASKUVARJOKALUSTO
+# VALMISTAUTUMINEN HYPPYYN
+Hyppypäätös
+* Edellisenä päivänä
+
+* Henkinen latautuminen
+
+* Riittävä lepo
+
+* Riittävä ravinto
+
+Kysy hyppymestarilta,jos olet epävarma
+jostakin
+Seuraa muiden hyppyjä,varjolla lentoa ja
+laskeutumisia
+
+* Nimi oppilaspokalistaan
+
+---
+
+# VALMISTAUTUMINEN HYPPYYN
+
+Pokan kasaus
+
+* Hyppymestari tekee
+
+Varusteiden pukeminen
+
+Hypyn ohjeistus
+
+* Vallitseva keli
+
+* Uloshyppypaikka
+
+* Tuulisektori
+
+* Laskeutumiskuviot
+
+Varusteiden tarkastu
+
+Siirtyminen koneelle
+
+Radioiden tarkastu
+
+Koneen lastaus
+
+---
+
+# LENNON AIKANA
+
+Varusteiden tarkastus
+
+* 1.paikalla ennen ovelle
+  siirtymistä
+  
+Siirtyminen ovelle
+
+Uloshyppy
+
+Varjon lopullinen avaaminen
+
+---
+
+# ULOSHYPYN JÄLKEEN
+
+Lentäminen tuulisektorissa
+ 
+ * Tarvittaessa ohjeita radiolla
+ 
+Loppukuviot
+
+ * Radio tukena
+ 
+Laskeutuminen
+
+Siirtyminen pakkaushalliin
+
+ * Hypyn arviointi
+ 
+ * Varjon pakkaaminen
+ 
+ ---
+ 
+ # HYPPYTOIMINNAN EDELLYTYKSET
+
+* Tuuli ei saa olla liian kova, alussa myös tyyni keli voi olla haasteellinen
+
+* Pilvitilanne sopiva oppilashyppytoiminnalle - Esteetön alastuloalue
+
+* Hyvää hyppysäätä joudutaan joskus odotteleman
+
+---
+
+# KENTTAALUEELLA LIIKKUMINEN
+
+* Alue on suljettu asiattomilta, ei siis sinulta
+
+* Kierrä lentokoneet aina takakautta, väistä aina liikkuvaa konetta
+
+* Lentokoneiden lähelle vain kouluttajan opastuksella
+
+I Moottoreiden melu turruttaa, riskitekijä
+
+* Kiitoratoja ei saa ylittää ilman lupaa
+
+---
+ 
+# HYPPYVARUSTEET JA TOIMINTA
+
+--
+
+ # LASKUVARJOKALUSTO
 
 ![](./alkeiskoulutuskuvat/laskuvarjo.png)
 
@@ -232,19 +399,24 @@ Lisäksi aina ennen hyppyä tarkastetaan aina **hyppypäiväkirja**
 
 ---
 
-# HYPPYTAPAHTUMA VALMISTAUTUMINEN HYPPYYN
+# ULOSHYPPY
 
-* Henkinen latautuminen
+---
 
-* Riittävä lepo
+# KONEEN LASTAUS
 
-* Riittävä ravinto
+Koneen Lastaus
 
-* Varaa varusteet, sovita ne etukäteen - Harjoittele suoritusta, kysy HM:ltä, jos olet epävarma jostakin
+* Ykkönen paikallaan polvillaan naama
+  menosuuntaan,muut istuvat selkä menosuuntaan
+  
+Koneessa istutaan käsivarret ristissä
+rinnan päällä
 
-* Seuraa muiden hyppyjä, varjolla lentoa ja Iaskeutumisia
-
-* Hyppymestari tarkastaa varusteet ennen koneelle lähtöä
+* Vasen kyynärpää suojaa VV-kahvaa ja kämmen
+  pampulaa
+  
+* PL-hihna oikeassa kädessä (ei saa nykiä)
 
 ---
 
@@ -272,7 +444,7 @@ Lisäksi aina ennen hyppyä tarkastetaan aina **hyppypäiväkirja**
 
 * Rintamasuunta Ientosuuntaan
 
-* Hyvä ja symmetrinen asentšš
+* Hyvä ja symmetrinen asento
 
 ---
 
